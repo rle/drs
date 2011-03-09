@@ -32,4 +32,5 @@ gem 'sqlite3'
 
 group :development, :test do
   gem 'rspec-rails'
+  gem 'watchr'
 end
